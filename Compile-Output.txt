@@ -1,0 +1,23 @@
+reem@reem-Inspiron-5520:~/BarberShop$ g++ BarberShop.cc BarberShopMain.cc CV.cc Lock.cc thread.c -pthread -o BarberShop.o
+
+reem@reem-Inspiron-5520:~/BarberShop$ ./BarberShop.o 
+Opening for the day
+Cut hair 0
+Cut hair 1
+Cut hair 2
+Cut hair 3
+Cut hair 4
+Cut hair 5
+Cut hair 6
+Cut hair 7
+Cut hair 8
+Cut hair 9
+CLOCK: Closing time
+Cut hair 10
+Cut hair 11
+Cut hair 12
+Cut hair 13
+Cut hair 14
+Closing for the day
+Stats: arr=15 cut=15 full=0
+
